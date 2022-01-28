@@ -6,6 +6,6 @@ Kolay Arayüzlü Hesap Patlatma Aracı ;)
 - Çalışmıyor: `0%`
 
 
-|SS OF THE TOOL | 
+|  Aracın SS'i  | 
 | ------------- | 
 | ![image](https://cdn.discordapp.com/attachments/408273027416064001/936432276844199956/unknown.png) |
